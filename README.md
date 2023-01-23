@@ -12,6 +12,6 @@ How are **you** today?
 
 ### TODO List
 
-- [ ] Octave Implementation of Linear Regression
+- [X] Octave Implementation of Linear Regression
 - [ ] Octave Implementation of Logistical Regression
 - [ ] Create a basic shader in OpenGL
