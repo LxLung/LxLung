@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **GLTF Parser**
 
-- 🌱 I’m currently learning **OpenGL, Godot, Digital Art**
+- 🌱 I’m currently learning **OpenGL, Godot, Arduino & Raspberry Pi, Digital Art**
 
 - 📫 How to reach me **gavliang96@gmail.com**
 
