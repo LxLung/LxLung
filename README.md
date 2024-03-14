@@ -1,10 +1,10 @@
 <h1 align="center">Heyo 👋, I'm Gavin Liang</h1>
 <h3 align="center">A Game Developer from San Francisco</h3>
 
-- 🔭 I’m currently working on a **GLTF Parser**
-- 🌟 I like to explore the different graphics APIs out there (Direct3D12, Vulkan, Metal or OpenGL). I love learning and read about new rendering techniques and try to implement them.
+- 🔭 I’m currently working on a CTF's.
+- 🌟 I like to learn about different data structures and algorithms in my free time.
 
-- 🌱 I’m currently learning **OpenGL, Godot, Arduino & Raspberry Pi, Digital Art**
+- 🌱 I’m currently learning **OpenGL, Unreal Engine Blueprints, Burp suite**
 
 - 📫 How to reach me **gavliang96@gmail.com**
 
