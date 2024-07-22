@@ -1,5 +1,5 @@
-<h1 align="center">Heyo 👋, I'm Gavin Liang</h1>
-<h3 align="center">A Game Developer from San Francisco</h3>
+<h1 align="center">Hello 👋, I'm Gavin Liang</h1>
+<h3 align="center">A Game Developer</h3>
 
 - 🔭 I’m currently working on CTF's.
 - 🌟 I like to learn about different data structures and algorithms in my free time.
